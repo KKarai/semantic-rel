@@ -1,0 +1,19 @@
+{
+  "name": "semantic-release",
+  "version": "0.1.0",
+  "description": "etc",
+  "main": "index.js",
+  "repository": "https://github.com/KKarai/semantic-rel.git",
+  "author": "Artur Karaev <axkarai@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "conventional-changelog-conventionalcommits": "^4.5.0",
+    "semantic-release": "^17.3.0"
+  }
+}
