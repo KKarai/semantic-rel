@@ -1,3 +1,15 @@
+# [1.3.0](https://github.com/KKarai/semantic-rel/compare/v1.2.0...v1.3.0) (2020-12-08)
+
+
+### Bug Fixes
+
+* проблемы ([2a182b0](https://github.com/KKarai/semantic-rel/commit/2a182b06c5215147bf79fa73d4c2106ca3026c2d))
+
+
+### Features
+
+* новая фича ([cfed9d8](https://github.com/KKarai/semantic-rel/commit/cfed9d80a032cc4ba78e5fe7113cd8c32def10b9))
+
 # [1.2.0](https://github.com/KKarai/semantic-rel/compare/v1.1.0...v1.2.0) (2020-12-08)
 
 
