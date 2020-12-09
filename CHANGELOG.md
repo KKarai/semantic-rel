@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/KKarai/semantic-rel/compare/v1.4.0...v1.4.1) (2020-12-09)
+
+
+### Bug Fixes
+
+* новые исправления ([3f9f60d](https://github.com/KKarai/semantic-rel/commit/3f9f60d341efaeaa36a66e504b6e99e1757a9935))
+
 # [1.4.0](https://github.com/KKarai/semantic-rel/compare/v1.3.0...v1.4.0) (2020-12-08)
 
 
