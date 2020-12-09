@@ -1,2 +1,3 @@
 // console.log('12321');
-let a = 15;
+console.log('12321');
+consoel.log('21323');
