@@ -1,3 +1,10 @@
+# [2.2.0](https://github.com/KKarai/semantic-rel/compare/v2.1.0...v2.2.0) (2020-12-09)
+
+
+### Features
+
+* новая фича ([8056a2c](https://github.com/KKarai/semantic-rel/commit/8056a2c676deb0369d69a1aa6fc02fc3593a6b0a))
+
 # [2.1.0](https://github.com/KKarai/semantic-rel/compare/v2.0.0...v2.1.0) (2020-12-09)
 
 
