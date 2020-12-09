@@ -1,6 +1,6 @@
 {
   "name": "semantic-release",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "etc",
   "main": "index.js",
   "repository": "https://github.com/KKarai/semantic-rel.git",
