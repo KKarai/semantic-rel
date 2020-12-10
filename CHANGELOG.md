@@ -1,3 +1,10 @@
+## [2.2.2](https://github.com/KKarai/semantic-rel/compare/v2.2.1...v2.2.2) (2020-12-10)
+
+
+### Bug Fixes
+
+* gg ([#19](https://github.com/KKarai/semantic-rel/issues/19)) ([c4557ba](https://github.com/KKarai/semantic-rel/commit/c4557ba58fda96107629b65b439d24782d2b4992))
+
 ## [2.2.1](https://github.com/KKarai/semantic-rel/compare/v2.2.0...v2.2.1) (2020-12-09)
 
 
